@@ -1,0 +1,2 @@
+stackoverflow.com/questions/594273/how-to-pick-a-random-english-word-from-a-list/594963
+https://www.randomlists.com/data/words.json
