@@ -1,0 +1,5 @@
+{
+    "ponicode.testSettings.testLocation.locationType": "Same folder as source file",
+    "ponicode.testSettings.testLocation.path": "{rootDir}\\{filePath}\\{fileName}.test.{ext}",
+    "python.pythonPath": "C:\\Users\\AshinIndavudha\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+}
